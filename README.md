@@ -1,5 +1,5 @@
-# I will not be maintaining this mod anymore. Visit TLD Modding Discord for pre-release version of UI-based version of this mod, or wait for full release
-It still works, but there will be no more updates
+# DISCONTINUED. But [here's](https://github.com/HAHAYOUDEAD/ClothingTweaker2) a new cool and flashy version ;)
+
 
 # Clothing Tweaker
 A mod for The Long Dark    
